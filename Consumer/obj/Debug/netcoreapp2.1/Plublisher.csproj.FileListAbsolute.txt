@@ -1,0 +1,14 @@
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Plublisher.deps.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Plublisher.runtimeconfig.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Plublisher.runtimeconfig.dev.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Plublisher.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Plublisher.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Message.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Message.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.csprojAssemblyReference.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.csproj.CoreCompileInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.AssemblyInfoInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.AssemblyInfo.cs
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.csproj.CopyComplete
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Plublisher.pdb

@@ -1,0 +1,8 @@
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs

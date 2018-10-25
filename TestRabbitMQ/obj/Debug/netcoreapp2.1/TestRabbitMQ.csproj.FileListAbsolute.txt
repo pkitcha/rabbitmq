@@ -1,0 +1,14 @@
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\bin\Debug\netcoreapp2.1\TestRabbitMQ.deps.json
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\bin\Debug\netcoreapp2.1\TestRabbitMQ.runtimeconfig.json
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\bin\Debug\netcoreapp2.1\TestRabbitMQ.runtimeconfig.dev.json
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\bin\Debug\netcoreapp2.1\TestRabbitMQ.dll
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.csprojAssemblyReference.cache
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.csproj.CoreCompileInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.RazorAssemblyInfo.cache
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.RazorAssemblyInfo.cs
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.AssemblyInfoInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.AssemblyInfo.cs
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.RazorTargetAssemblyInfo.cache
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\bin\Debug\netcoreapp2.1\TestRabbitMQ.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.dll
+c:\users\pongs\source\repos\TestRabbitMQ\TestRabbitMQ\obj\Debug\netcoreapp2.1\TestRabbitMQ.pdb

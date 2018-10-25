@@ -1,0 +1,6 @@
+c:\users\pongs\source\repos\TestRabbitMQ\Message\bin\Debug\Message.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Message\bin\Debug\Message.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\Message\obj\Debug\Message.csprojAssemblyReference.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Message\obj\Debug\Message.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Message\obj\Debug\Message.pdb

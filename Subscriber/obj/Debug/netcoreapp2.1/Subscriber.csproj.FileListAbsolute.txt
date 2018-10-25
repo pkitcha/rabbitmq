@@ -1,0 +1,14 @@
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Subscriber.deps.json
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Subscriber.runtimeconfig.json
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Subscriber.runtimeconfig.dev.json
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Subscriber.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.csproj.CoreCompileInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.AssemblyInfoInputs.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.AssemblyInfo.cs
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Subscriber.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Message.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\bin\Debug\netcoreapp2.1\Message.pdb
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.csprojAssemblyReference.cache
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.csproj.CopyComplete
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.dll
+c:\users\pongs\source\repos\TestRabbitMQ\Subscriber\obj\Debug\netcoreapp2.1\Subscriber.pdb
